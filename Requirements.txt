@@ -1,0 +1,6 @@
+- Python 3
+- Jupyter Notebook
+- Numpy
+- Keras
+- Matplotlib
+- pyplot
